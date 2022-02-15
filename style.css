@@ -18,5 +18,39 @@ img {
   margin-right: 10px;
 }
 
+.left {
+  float: left;
+  width: 300px;
+  padding: 1em;
+}
+
+.center {
+  margin: 0px 300px 0px 300px;
+  width: 300px;
+  padding: 1em;
+}
+
+.right {
+  float: right;
+  width: 300px;
+  padding: 1em;
+}
+
+#navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+#navbar li {
+  display: inline;
+}
+
+#navbar a {
+  margin: 0px 50px 0px 50px;
+}
+
+
+
 
 
